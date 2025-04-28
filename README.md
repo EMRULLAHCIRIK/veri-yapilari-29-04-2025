@@ -144,8 +144,21 @@ veriseti.txt dosyasının biçimi aşağıdaki gibi olmalıdır:
 sql
 Kopyala
 Düzenle
+
+
+
 USER 101
+
+
 USER 102
+
+
 USER 103
+
+
 FRIEND 101 102
+
+
 FRIEND 102 103
+
+
